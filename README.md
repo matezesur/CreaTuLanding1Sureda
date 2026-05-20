@@ -8,9 +8,4 @@ Primera entrega de React JS: creación de una landing inicial para un e-commerce
 - CartWidget
 - ItemListContainer
 
-## Cómo ejecutar el proyecto
 
-```bash
-npm install
-npm run dev
-```
